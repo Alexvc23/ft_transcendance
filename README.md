@@ -17,8 +17,6 @@
 - **Database**: PostgreSQL for robust data management.
 - **Deployment**: Containerized with Docker for easy setup and deployment.
 
-## Challenges and Solutions
-(Here, you can elaborate on any specific challenges you faced during the development and how you resolved them.)
 
 ## Screenshots/Demo
 (Include a few screenshots of the project or a link to a video demo.)
