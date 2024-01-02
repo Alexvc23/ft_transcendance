@@ -19,7 +19,7 @@
 
 
 ## Screenshots/Demo
-(Include a few screenshots of the project or a link to a video demo.)
+### Currently working in it, you will have it shortly
 
 ## Conclusion
 ft_transcendence represents a significant milestone in my journey as a full-stack developer. It reflects my ability to build a complex, real-time web application from scratch and address various technical challenges.
